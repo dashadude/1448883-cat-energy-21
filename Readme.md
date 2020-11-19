@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Дарья Харченко](https://up.htmlacademy.ru/adaptive/21/user/1448883).
-* Наставник: `Неизвестно`.
+* Наставник: [Лиза Пак](https://up.htmlacademy.ru/adaptive/21/user/5608).
 
 ---
 
